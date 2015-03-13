@@ -1,0 +1,1 @@
+Various code hacks, css tricks, javascript tomfoolery, and other projects to build up Naval Academy Intranet.
